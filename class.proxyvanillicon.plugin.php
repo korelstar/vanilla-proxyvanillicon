@@ -12,7 +12,7 @@
 $PluginInfo['proxyvanillicon'] = array(
    'Name' => 'Vanillicon Proxy',
    'Description' => "This proxy (with local cache) for Vanillicon enhances privacy for your users and availability for your forum.",
-   'Version' => '2.1',
+   'Version' => '2.1.1',
    'RequiredApplications' => array('Vanilla' => '2.0.18'),
    'Author' => 'Kristof Hamann',
    'AuthorEmail' => 'vanilliconproxy@korelstar.de',
