@@ -11,12 +11,13 @@
 // Define the plugin:
 $PluginInfo['proxyvanillicon'] = array(
    'Name' => 'Vanillicon Proxy',
-   'Description' => "This proxy (with local cache) for Vanillicon enhances privacy for your users.",
+   'Description' => "This proxy (with local cache) for Vanillicon enhances privacy for your users and availability for your forum.",
    'Version' => '2.1',
    'RequiredApplications' => array('Vanilla' => '2.0.18'),
    'Author' => 'Kristof Hamann',
    'AuthorEmail' => 'vanilliconproxy@korelstar.de',
    'AuthorUrl' => 'http://www.vanillaforums.org/profile/korelstar',
+   'License' => 'GPLv2',
    'MobileFriendly' => true,
    'SettingsUrl' => '/settings/vanillicon',
    'SettingsPermission' => 'Garden.Settings.Manage'
